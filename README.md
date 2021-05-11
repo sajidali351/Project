@@ -1,2 +1,2 @@
 # Project
-Here are some basic project
+Here are some basic project.
